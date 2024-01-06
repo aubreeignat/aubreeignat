@@ -1,5 +1,6 @@
 <h1>👋 Hello, I'm Bibi</h1>
 
+  ![Manufacturetocat](https://octodex.github.com/images/manufacturetocat.png)
 <h2>👨🏻‍💻 About Me:</h2><br/>
   🙋‍♂️ All about me is a My WebSite.<br/>
   🔭 I’m currently working on Something Intresting.<br/>
@@ -10,6 +11,8 @@
   💬 Ask me about anything, Except Girls 😅<br/>
   👨‍💻 Life Hack: Learn new tech 🔥 and share what you have learned 🎉<br/>
   ⚡ Fun fact: I waste most of my time playing games.<br/>
+
+
   
 <!---
 aubreeignat/aubreeignat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
